@@ -1,7 +1,7 @@
 import XCTest
-@testable import JamesuKit_Swift
+@testable import JamesuKit
 
-final class JamesuKit_SwiftTests: XCTestCase {
+final class JamesuKitTests: XCTestCase {
     func testExample() throws {
         // XCTest Documentation
         // https://developer.apple.com/documentation/xctest
