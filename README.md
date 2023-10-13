@@ -8,7 +8,7 @@ Useful Development Kit in Swift.
 
 ## Requirements
 
-- Xcode 15.0+, Swift 5.9+
+- Xcode 13.0+, Swift 5.5+
 - iOS 15.0+
 
 ## Installation
